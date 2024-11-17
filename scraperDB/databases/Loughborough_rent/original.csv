@@ -1,0 +1,93 @@
+address,price_pcm,price_per_week,let_available_date,furnish_type,property_type,bedrooms,bathrooms,garden,postcode
+"Knightthorpe Road, Loughborough, LE11",4749.0,1096.0,2025-09-18 00:00:00,Furnished,House Share,8,3.0,Yes,LE11
+"Knightthorpe Road (8), Loughborough, LE11",4749.0,1096.0,2025-08-22 00:00:00,Furnished,House Share,8,3.0,Yes,LE11
+"Forest Road (7), Loughborough, LE11",4155.0,959.0,2025-09-06 00:00:00,Furnished,House Share,7,3.0,Yes,LE11
+"Cotswold Close, Loughborough, LE11",3562.0,822.0,2025-07-01 00:00:00,Furnished,House Share,6,2.0,Yes,LE11
+Sharpley Road,2750.0,635.0,2025-07-01 00:00:00,Furnished,Detached,5,,Yes,
+"Sharpley Road, Loughborough",2750.0,635.0,2025-07-01 00:00:00,,Detached,5,1.0,Yes,
+"Gracedieu Road, Loughborough, LE11 4QG",2400.0,554.0,2024-11-17 00:00:00,Furnished,House,6,2.0,Yes,LE11
+"Loweswater Drive, Loughborough, LE11",2374.0,548.0,2025-07-01 00:00:00,Furnished,House Share,4,1.0,Yes,LE11
+"Alan Moss Road, Loughborough, LE11",2253.0,520.0,2025-07-01 00:00:00,Furnished,House Share,4,1.0,Yes,LE11
+Hermitage Road,2232.0,515.0,2025-07-01 00:00:00,Furnished,Semi-Detached,5,,Yes,
+"Hermitage Road, Loughborough",2232.0,515.0,2025-07-01 00:00:00,,Semi-Detached,5,1.0,Yes,
+"Braid Close, Loughborough, LE11",2200.0,508.0,2024-11-17 00:00:00,Unfurnished,Detached,5,4.0,Yes,LE11
+"Goldfinch Close, Loughborough, LE11",2166.0,500.0,2025-07-01 00:00:00,Furnished,House Share,4,2.0,Yes,LE11
+"Leopold Street, Loughborough, LE11",2080.0,480.0,2025-07-01 00:00:00,Furnished,House Share,4,2.0,Yes,LE11
+"Pantain Road, Loughborough",1950.0,450.0,2024-11-17 00:00:00,Unfurnished,Detached,4,3.0,Yes,
+"Hermitage Road, Loughborough",1906.0,440.0,2025-07-01 00:00:00,,Detached,4,1.0,Yes,
+Hermitage Road,1906.0,440.0,2025-07-01 00:00:00,Furnished,Detached,4,,Yes,
+"John Boden Way, Loughborough, LE11",1850.0,427.0,2024-12-20 00:00:00,Unfurnished,Detached,4,2.0,Yes,LE11
+Sharpley Road,1820.0,420.0,2025-07-01 00:00:00,Furnished,Semi-Detached,4,,,
+"Sharpley Road, Loughborough",1820.0,420.0,2025-07-01 00:00:00,,Semi-Detached,4,1.0,,
+"Speeds Pingle, Loughborough, LE11",1820.0,420.0,2025-06-30 00:00:00,Furnished,Detached,4,2.0,Yes,LE11
+"John Boden Way, Loughborough, LE11 2ER",1800.0,415.0,2024-12-12 00:00:00,"Furnished or unfurnished, landlord is flexible",Detached,4,3.0,Yes,LE11
+"Hermitage Road, Loughborough",1734.0,400.0,2025-07-01 00:00:00,,Detached,4,1.0,Yes,
+"Brisco Avenue, Loughborough, LE11",575.0,133.0,2024-11-23 00:00:00,Furnished,House Share,1,1.0,Yes,LE11
+"Kirkstone Drive, Loughborough, Leics, LE11 3RW",1200.0,277.0,2024-11-17 00:00:00,Unfurnished,House,3,1.0,Yes,LE11
+"Windmill Road, Loughborough, Leicestershire, LE11 1RJ",1100.0,254.0,2024-12-13 00:00:00,Unfurnished,House,3,1.0,Yes,LE11
+"John Boden Way, Loughborough, LE11",1850.0,427.0,2024-12-20 00:00:00,Unfurnished,Detached,4,2.0,Yes,LE11
+"Queens Road, Loughborough",1100.0,254.0,2024-12-01 00:00:00,Unfurnished,Terraced,4,1.0,Yes,
+"Hermitage Road, Loughborough",1734.0,400.0,2025-07-01 00:00:00,,Detached,4,1.0,Yes,
+"Hermitage Road, Loughborough",2232.0,515.0,2025-07-01 00:00:00,,Semi-Detached,5,1.0,Yes,
+"Sharpley Road, Loughborough",1820.0,420.0,2025-07-01 00:00:00,,Semi-Detached,4,1.0,,
+"Park Road, Loughborough, LE11",809.0,187.0,2024-11-17 00:00:00,Furnished,Flat Share,1,1.0,Private garden,LE11
+"Holland Close, Loughborough, LE11",875.0,202.0,2024-12-02 00:00:00,Unfurnished,Apartment,2,1.0,,LE11
+"Brisco Avenue, Loughborough, LE11",575.0,133.0,2024-12-12 00:00:00,Furnished,House Share,1,1.0,Yes,LE11
+"Irwin Avenue, Loughborough, Leics, LE11 5FB",1200.0,277.0,2024-12-09 00:00:00,Unfurnished,House,3,1.0,Yes,LE11
+"Grace Dieu Court, Loughborough, LE11 4QL",516.0,119.0,2025-07-01 00:00:00,Furnished,,2,,,LE11
+"Grace Dieu Court, Loughborough - INC BILLS OPTION",516.0,119.0,2025-07-01 00:00:00,Furnished,Apartment,2,1.0,,
+"Grace Dieu Court, Loughborough - INC BILLS OPTION",516.0,119.0,2025-07-01 00:00:00,Furnished,Apartment,2,1.0,,
+"Grace Dieu Court, Loughborough - INC BILLS OPTIONS",516.0,119.0,2025-07-01 00:00:00,Furnished,Apartment,2,1.0,,
+"Grace Dieu Court, Loughborough - INC BILLS OPTION",516.0,119.0,2025-07-01 00:00:00,Furnished,Apartment,2,1.0,,
+"Grace Dieu Court, Loughborough, LE11",516.0,119.0,2025-07-01 00:00:00,Furnished,,2,1.0,,LE11
+"Robin Mews, Loughborough,",607.0,140.0,2025-07-07 00:00:00,Furnished,House,4,3.0,,
+"Flat 1, 2 Henderson Way, Loughborough",700.0,162.0,2024-12-16 00:00:00,Unfurnished,Apartment,1,1.0,,
+"Tyler Avenue, Loughborough, LE11 5NL",995.0,230.0,2024-11-17 00:00:00,Unfurnished,Semi-Detached,3,1.0,Yes,LE11
+"Clumber Close, Loughborough, LE11",950.0,219.0,2025-01-24 00:00:00,Unfurnished,Semi-Detached,3,1.0,Yes,LE11
+"Glebe Street, LOUGHBOROUGH",1100.0,254.0,2024-11-17 00:00:00,Unfurnished,Terraced,3,,,
+"Alan Moss Road, Loughborough, LE11",975.0,225.0,2024-11-17 00:00:00,Unfurnished,Semi-Detached,3,1.0,Private garden,LE11
+"John Boden Way, Loughborough, LE11 2ER",1800.0,415.0,2024-12-12 00:00:00,"Furnished or unfurnished, landlord is flexible",Detached,4,3.0,Yes,LE11
+"Gracedieu Road, Loughborough, LE11",895.0,207.0,2024-11-17 00:00:00,Unfurnished,Terraced,3,1.0,Yes,LE11
+"Brisco Avenue, Loughborough, LE11",575.0,133.0,2024-11-17 00:00:00,Furnished,House Share,1,1.0,Yes,LE11
+"Derby Road, Loughborough, LE11",425.0,98.0,2024-12-14 00:00:00,Furnished,House Share,1,1.0,Yes,LE11
+"Derby Road, Loughborough, LE11",800.0,185.0,2024-12-02 00:00:00,Furnished,House Share,1,1.0,Yes,LE11
+"Forest Road, Loughborough, LE11",650.0,150.0,2024-12-09 00:00:00,Furnished,Flat Share,1,2.0,Yes,LE11
+"Albert Place, Loughborough - INC BILLS OPTION",390.0,90.0,2025-07-01 00:00:00,Furnished,,4,2.0,,
+Granville Street,925.0,213.0,2024-11-17 00:00:00,Part furnished,Terraced,3,1.0,Yes,
+"Granville Street, Loughborough",925.0,213.0,2024-11-17 00:00:00,,Terraced,3,1.0,Yes,
+"Purnell Walk, Loughborough",1100.0,254.0,,Unfurnished,Semi-Detached,3,1.0,Yes,
+"Laurel Road , Loughborough",850.0,196.0,2024-11-17 00:00:00,Unfurnished,Terraced,2,1.0,Yes,
+"Nanpantan Road, Loughborough, LE11 3YE",1000.0,231.0,2024-11-18 00:00:00,Unfurnished,House,2,2.0,Yes,LE11
+"Aitken Way, Loughborough",1300.0,300.0,,Unfurnished,Detached,3,2.0,Yes,
+"Havelock Street, Loughborough, LE11",607.0,140.0,2025-08-01 00:00:00,Furnished,Flat,4,3.0,,LE11
+"Knipton Drive, Loughborough, LE11 4ER",950.0,219.0,2024-11-30 00:00:00,"Furnished or unfurnished, landlord is flexible",,1,1.0,,LE11
+"Beacon Road, Loughborough, LE11",650.0,150.0,2025-08-01 00:00:00,Furnished,Detached,4,1.0,Private garden,LE11
+"Kirkstone Drive, Loughborough, LE11 3RN",995.0,230.0,2024-11-17 00:00:00,Unfurnished,Semi-Detached,3,1.0,,LE11
+"Francis Drive, Loughborough, LE11",925.0,213.0,2024-11-17 00:00:00,Unfurnished,Semi-Detached,3,1.0,Private garden,LE11
+"Ashby Road, Loughborough - INC BILLS OPTION",780.0,180.0,2025-07-01 00:00:00,Furnished,Flat,1,1.0,,
+"Ashby Road, Loughborough - INC BILLS",758.0,175.0,2025-07-01 00:00:00,Furnished,Flat,3,1.0,,
+"Highland Drive, Loughborough, LE11 2HU",1500.0,346.0,2024-11-17 00:00:00,Unfurnished,Detached,4,2.0,Yes,LE11
+Hastings Street,625.0,144.0,2025-08-25 00:00:00,Furnished,House Share,4,,Yes,
+"Market Street, LOUGHBOROUGH",670.0,155.0,2024-11-17 00:00:00,Furnished,Flat,1,1.0,,
+Wharncliffe Road,680.0,157.0,2024-11-17 00:00:00,Unfurnished,Flat,1,1.0,,
+"Paget Street, Loughborough - INC BILLS OPTION",520.0,120.0,2025-07-01 00:00:00,Furnished,House of Multiple Occupation,4,2.0,Yes,
+"New Ashby Road, Loughborough, LE11",1733.0,400.0,2025-07-01 00:00:00,Furnished,House Share,4,1.0,Yes,LE11
+"Maple Road, Loughborough, Leicestershire, LE11",1200.0,277.0,2024-11-17 00:00:00,Unfurnished,Semi-Detached,3,1.0,Yes,LE11
+"New Ashby Road, Loughborough,",585.0,135.0,2025-07-02 00:00:00,Furnished,House,5,2.0,Yes,
+"Epinal Court, Loughborough, LE11",950.0,219.0,2024-11-17 00:00:00,Unfurnished,End of Terrace,3,2.0,Private garden,LE11
+"Alan Moss Road, Loughborough, Leicestershire",477.0,110.0,2025-07-02 00:00:00,Furnished,House,4,,Yes,
+"Ratcliffe Road, Loughborough LE11",995.0,230.0,2024-11-17 00:00:00,Unfurnished,Terraced,4,1.0,Yes,LE11
+"Leopold Street, Loughborough - INC BILLS OPTION",455.0,105.0,2025-07-01 00:00:00,Furnished,House of Multiple Occupation,3,1.0,Yes,
+"Rosebery Street, Loughborough - INC BILLS OPTION",477.0,110.0,2025-07-01 00:00:00,Furnished,,3,1.0,,
+"Fennel Street, Loughborough, LE11",900.0,208.0,2024-12-07 00:00:00,"Furnished or unfurnished, landlord is flexible",Flat,2,1.0,,LE11
+"Arthur Street, Loughborough,",433.0,100.0,2024-11-17 00:00:00,Furnished,House,5,2.0,,
+"Sharpley Road, Loughborough, Leicestershire",455.0,105.0,2025-07-01 00:00:00,Furnished,House,4,,Yes,
+"Fearon Street , Loughborough,",542.0,125.0,2025-07-02 00:00:00,Furnished,House,5,,,
+"Kingfisher Way, ,",650.0,150.0,2025-07-02 00:00:00,Furnished,House,5,2.0,,
+"Park Road, Loughborough,",585.0,135.0,2025-07-02 00:00:00,Furnished,House,5,2.0,,
+"Moorhen Way, Loughborough,",607.0,140.0,2025-07-01 00:00:00,Furnished,House,6,2.0,,
+"Meadow Lane, Loughborough , Leicestershire",433.0,100.0,2025-07-02 00:00:00,Furnished,House,8,3.0,,
+"Derby Road, Loughborough,",563.0,130.0,2025-07-02 00:00:00,Furnished,House,8,2.0,,
+"Ashby Road, Loughborough,",672.0,155.0,2025-07-02 00:00:00,Furnished,House,8,2.0,,
+"Meadow Lane, Loughborough,",433.0,100.0,2025-07-02 00:00:00,Furnished,House,6,3.0,,
+"Broad Street, Loughborough,",563.0,130.0,2025-07-02 00:00:00,Furnished,House,6,1.0,Yes,

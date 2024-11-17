@@ -1,0 +1,49 @@
+address,price_pcm,property_type,bedrooms,bathrooms,size,tenure,council_tax,garden,postcode
+"Coney Street, York City Centre, York",5500000.0,House,64.0,64.0,"32,101 sq ft",Freehold,,,
+"Terry's Car Park Site, Bishopthorpe Road, York, York",,,,,,,,,
+"Barleyfields and Ashbank, 1 Shipton Road, York",,,,,,,,,
+"Bathurst House, Micklegate, York",2950000.0,House,7.0,5.0,"7,033 sq ft",Freehold,H,Yes,
+"Marygate, York, North Yorkshire, YO30",2400000.0,End of Terrace,6.0,3.0,"4,458 sq ft",Freehold,G,Yes,YO30
+"Alma Terrace, York, North Yorkshire, YO10",1850000.0,Detached,5.0,4.0,,Freehold,TBC,,YO10
+"St. Saviourgate, York, North Yorkshire, YO1",1650000.0,Terraced,5.0,2.0,"4,124 sq ft",Freehold,G,Yes,YO1
+"The Mount, York, YO24",1400000.0,Terraced,4.0,3.0,"3,257 sq ft",Freehold,G,Yes,YO24
+"Ogleforth, York",1395000.0,House,4.0,4.0,"2,838 sq ft",Freehold,G,Yes,
+"The Mount, York, North Yorkshire, YO24",1395000.0,End of Terrace,7.0,6.0,"3,228-3,403 sq ft",Freehold,TBC,Yes,YO24
+"Clifton, York,YO30",1350000.0,Semi-Detached,5.0,3.0,"3,615 sq ft",Freehold,,"Back garden, Patio, Enclosed garden, Front garden",YO30
+"Fulford Road, York",1300000.0,Detached,12.0,12.0,,Freehold,H,Yes,
+"The Avenue, York, North Yorkshire, YO30",1270000.0,Terraced,7.0,3.0,"3,766 sq ft",Freehold,G,Yes,YO30
+"St. Martins Lane, York,  YO1 6LN",1250000.0,Town House,5.0,4.0,,Freehold,F,Yes,YO1
+"St. Martins Lane, York, North Yorkshire, YO1",1250000.0,House,5.0,,,Freehold,F,,YO1
+"The Mount, York, North Yorkshire",1225000.0,End of Terrace,6.0,2.0,"3,467 sq ft",Leasehold,G,Yes,
+"Albemarle Road, York, North Yorkshire, YO23",1150000.0,End of Terrace,7.0,8.0,"3,199 sq ft",Freehold,A,Yes,YO23
+"Tadcaster Road, Dringhouses, York",1000000.0,Detached,7.0,2.0,,Freehold,,Yes,
+"Clifton Dale, Clifton Green, York",1000000.0,Town House,4.0,3.0,"2,215 sq ft",Freehold,F,Yes,
+"Huntington Road, York, YO31 9BP",1000000.0,Detached,7.0,2.0,"2,673 sq ft",Freehold,E,Yes,YO31
+"Tadcaster Road, Dringhouses, York",1000000.0,Detached,4.0,2.0,,Freehold,F,Yes,
+"Cumberland Street, York",1000000.0,House,7.0,3.0,,Freehold,,,
+"Peckitt Street, York, YO1 9SF",995000.0,Town House,4.0,4.0,"1,980 sq ft",Freehold,G,Yes,YO1
+"Bishopthorpe Road, York, North Yorkshire, YO23",965000.0,End of Terrace,5.0,2.0,"2,582 sq ft",Freehold,E,Yes,YO23
+"Bishopthorpe Road, York",950000.0,Terraced,6.0,4.0,,Freehold,F,Yes,
+"Bishopthorpe Road, York, North Yorkshire, YO23",950000.0,Terraced,6.0,3.0,,Freehold,F,Yes,YO23
+"Huntington Road, York",950000.0,House,4.0,2.0,"1,876 sq ft",Freehold,E,Yes,
+"The Mount, York, YO24",935000.0,End of Terrace,4.0,3.0,"2,141 sq ft",Leasehold,TBC,"Patio, Communal garden, Private garden",YO24
+"South Parade, York",925000.0,House,4.0,3.0,"2,392 sq ft",Freehold,F,Yes,
+"St. Aubyns Place, York, YO24",900000.0,Semi-Detached,4.0,2.0,"2,013 sq ft",Freehold,E,Yes,YO24
+"Albemarle Road, York, YO23",900000.0,Terraced,6.0,7.0,"2,322 sq ft",Freehold,TBC,,YO23
+"St Saviour's House, York city centre",895000.0,House,4.0,2.0,"1,572 sq ft",Freehold,E,Yes,
+"Holly Terrace, York, North Yorkshire, YO10",895000.0,Terraced,5.0,2.0,"2,103 sq ft",Freehold,F,Yes,YO10
+"Minster Yard, York, YO1",895000.0,Terraced,5.0,3.0,"3,075 sq ft",Leasehold,D,Yes,YO1
+"Bishopthorpe Road, York",895000.0,House,4.0,3.0,,Freehold,D,Yes,
+"The Old Village, Huntington, York",875000.0,Detached,4.0,4.0,,Freehold,G,Yes,
+"Scarcroft Hill, South Bank, York, YO24 1DF",875000.0,Terraced,4.0,2.0,"1,580 sq ft",Freehold,D,Yes,YO24
+"Holly Lodge, Fulford Road, York, YO10",850000.0,Semi-Detached,7.0,7.0,,Freehold,,"Private garden, Enclosed garden",YO10
+"Nunnery Lane, York",850000.0,Apartment,7.0,7.0,,Freehold,,,
+"The Purey Cust, York, YO1",850000.0,Flat,2.0,2.0,,Leasehold,TBC,Yes,YO1
+"New House Covert, Knapton, York, YO26 6QX",850000.0,Detached,4.0,3.0,"2,440 sq ft",Freehold,G,Yes,YO26
+"Abbey House, Earlsborough Terrace, York",825000.0,House,5.0,6.0,"2,093 sq ft",Freehold,Exempt,Yes,
+"Westminster Road, York, North Yorkshire, YO30",825000.0,Detached,5.0,2.0,"2,022 sq ft",Freehold,E,Yes,YO30
+"Westlands Grove, York, North Yorkshire, YO31",800000.0,Detached,5.0,4.0,,,,Yes,YO31
+"Albemarle Road, York, North Yorkshire, YO23",800000.0,Terraced,8.0,4.0,"2,582 sq ft",Freehold,F,,YO23
+"Hempland Drive, York",800000.0,Detached,4.0,2.0,,Freehold,E,Yes,
+"Penleys Grove Street, York",800000.0,End of Terrace,5.0,2.0,,Freehold,F,Yes,
+"Penleys Grove Street, York, YO31 7PW",800000.0,House,5.0,2.0,"1,989 sq ft",Freehold,F,Yes,YO31

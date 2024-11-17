@@ -1,0 +1,49 @@
+address,price_pcm,property_type,bedrooms,bathrooms,tenure,council_tax,garden,postcode
+"Burrow Heights Lane, Lancaster, Lancashire, LA2",1250000.0,Detached,5,3.0,Freehold,E,Yes,LA2
+"Aldcliffe Heights, Aldcliffe Hall Drive, Aldcliffe, Lancaster, LA1 5BG",950000.0,Detached,4,2.0,Freehold,F,Private garden,LA1
+"Tarnwater Lane, Lancaster, LA2",950000.0,Detached,6,6.0,Freehold,F,Yes,LA2
+"Burrow Heights Lane, Lancaster, LA2",900000.0,Detached,5,4.0,Freehold,F,Private garden,LA2
+"Moorgarth, Quernmore Road, Lancaster, LA1 3JT",850000.0,Country House,4,3.0,Freehold,F,Yes,LA1
+"Parkgate Drive, Lancaster, Lancashire, LA1",800000.0,Semi-Detached,6,4.0,Freehold,G,Yes,LA1
+"Parkgate Drive, Lancaster",800000.0,House,6,4.0,Freehold,G,"Rear garden, Front garden",
+"Haverbreaks Road, Lancaster, Lancashire, LA1",695000.0,Detached,4,3.0,Freehold,G,Yes,LA1
+"Redwood Heights, Lancaster, LA1",670000.0,Detached,5,3.0,Freehold,G,Private garden,LA1
+"Plot 3, Acresfield, Bailrigg Lane, Lancaster, LA1 4AW",650000.0,Detached,4,2.0,Freehold,,Yes,LA1
+"Plot 2, Acresfield, Bailrigg Lane, Lancaster, LA1 4AW",650000.0,Detached,4,2.0,Freehold,,Yes,LA1
+"Plot 1, Acresfield, Bailrigg Lane, Lancaster, LA1 4AW",650000.0,Detached,4,2.0,Freehold,,Yes,LA1
+"Redwood Heights, Lancaster, Lancashire",625000.0,Detached,6,3.0,Freehold,G,Yes,
+"Arna Wood Barn, Aldcliffe, Lancaster",599950.0,Terraced,5,4.0,Freehold,E,Private garden,
+"St. Marys Parade, Lancaster",599950.0,Terraced,4,4.0,Freehold,E,Yes,
+"Oakwood Gardens, Lancaster | Enjoy Luxury Living in South Lancaster",590000.0,Detached,5,3.0,Freehold,F,"Rear garden, Private garden",
+"Lindbergh Avenue, Lancaster",569950.0,Detached,4,2.0,Freehold,F,Yes,
+"Lindbergh Avenue, Lancaster",569950.0,Detached,4,2.0,Freehold,F,Yes,
+"Moorside Lodge,  Golgotha Village -  Williamson Park becomes your neighbour...",550000.0,Detached,3,2.0,Freehold,F,Private garden,
+"Westbourne Road, Lancaster",545000.0,Terraced,5,3.0,Freehold,E,Yes,
+"Scotforth Road, Lancaster, LA1",525000.0,Semi-Detached,5,2.0,Freehold,E,Private garden,LA1
+"Cable Street, Lancaster",525000.0,Terraced,8,3.0,Freehold,D,Yes,
+"Fern Bank, Lancaster",525000.0,Terraced,5,3.0,Freehold,D,Private garden,
+"Blades Street, Lancaster",500000.0,Terraced,8,2.0,Freehold,C,Yes,
+Derwent Road | A stunning detached stone-built property seamlessly blending traditional charm with modern comforts,499950.0,Detached,3,2.0,Freehold,D,Private garden,
+"Sunnyside Close, Aldcliffe | Beautifully presented family home located in a quiet tucked away location",475000.0,Detached,3,2.0,Freehold,E,Private garden,
+"Guidem Park, Lancaster",450000.0,Semi-Detached,4,2.0,Freehold,E,Yes,
+"Hala Road, Lancaster",450000.0,Character Property,5,2.0,Freehold,D,Yes,
+"Kent Way, Grosvenor Park, Morecambe",450000.0,Detached,6,2.0,Freehold,F,Yes,
+"Coleman Drive, Lancaster, LA1",450000.0,Detached,4,1.0,Freehold,E,Yes,LA1
+"1 Castle Hill, Lancaster, LA1 1YS",450000.0,Terraced,5,2.0,,D,Patio,LA1
+"Lindow Street, Lancaster",435000.0,End of Terrace,6,3.0,Freehold,D,Yes,
+"Pathfinders Drive, Lancaster, Lancashire LA1 5FG",430000.0,Detached,3,,Freehold,Ask developer,"Rear garden, Front garden",LA1
+"Pathfinders Drive, Lancaster, Lancashire LA1 5FG",430000.0,Detached,3,,Freehold,Ask developer,"Rear garden, Front garden",LA1
+"Lindow Street, Lancaster, Lancashire, LA1",425000.0,Terraced,6,3.0,,D,Yes,LA1
+"Regent Street, Lancaster",425000.0,House,4,1.0,Freehold,D,Rear garden,
+"South Road, Lancaster",425000.0,Terraced,4,1.0,Freehold,C,Yes,
+"Lune Drive, Grosvenor Park, Morecambe",425000.0,House,5,1.0,Freehold,F,"Rear garden, Front garden",
+"Newmarket Avenue, Lancaster",425000.0,Bungalow,3,1.0,Freehold,D,"Rear garden, Front garden",
+"Steward Avenue, Lancaster, Lancashire, LA1",425000.0,Detached,4,2.0,Freehold,D,Yes,LA1
+"Macdonald Way, Lancaster | A beautiful four bedroom home with South facing garden.",425000.0,Detached,4,3.0,Freehold,D,"Rear garden, Front garden",
+"Woodlea Court, Lancaster, Lancashire, LA1",420000.0,House,4,3.0,Leasehold,D,Yes,LA1
+"Bowerham Road, Lancaster",415000.0,Terraced,6,6.0,Freehold,C,Yes,
+"Bentham Road, Lancaster",400000.0,Detached,4,1.0,Freehold,,Yes,
+"Lindow Street, Lancaster LA1 / Delightful family home close to City Centre & Railway links",400000.0,End of Terrace,4,2.0,Freehold,C,Private garden,LA1
+"Ashford Road, Scotforth |  A beautiful period home with a superb south facing garden",400000.0,Cottage,3,1.0,Freehold,D,Private garden,
+"Trent Close, Morecambe",399950.0,Detached,4,2.0,Freehold,E,Yes,
+"Aldcliffe Yard, Lancaster",399950.0,Barn Conversion,3,,Freehold,D,Yes,

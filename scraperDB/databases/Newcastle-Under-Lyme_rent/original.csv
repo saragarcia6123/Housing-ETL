@@ -1,0 +1,97 @@
+address,price_pcm,price_per_week,let_available_date,let_type,furnish_type,property_type,bedrooms,bathrooms,council_tax,garden,postcode
+"Marsh Box, 2 Marsh Parade, Newcastle under Lyme, Staffordshire, ST5",925.0,213.0,2025-01-03 00:00:00,Long term,Furnished,Apartment,2.0,1.0,A,,ST5
+"Marsh Parade, Newcastle Under Lyme",775.0,179.0,2024-11-29 00:00:00,Long term,Unfurnished,Apartment,1.0,1.0,A,,
+"Oxford Road, Newcastle, Staffordshire",795.0,183.0,2024-11-17 00:00:00,Long term,,Studio,,,,,
+"Oxford Road, Newcastle, Staffordshire",715.0,165.0,2024-11-17 00:00:00,Long term,,Studio,,,,,
+"Oxford Road, Newcastle, Staffordshire",715.0,165.0,2024-11-17 00:00:00,Long term,,Studio,,,,,
+"Exmoor Drive, Knutton",975.0,225.0,2024-12-16 00:00:00,Long term,Unfurnished,Semi-Detached,3.0,2.0,C,Yes,
+"Chervil Close, Newcastle",1150.0,265.0,2024-11-19 00:00:00,,Furnished,Detached,4.0,,D,Yes,
+"St Georges Avenue West, Wolstanton, ST5",1100.0,254.0,2024-12-20 00:00:00,Long term,Unfurnished,Semi-Detached,3.0,1.0,B,Private garden,ST5
+"High Street, Knutton, Newcastle-under-Lyme",800.0,185.0,2025-07-01 00:00:00,,Furnished,Terraced,2.0,2.0,A,,
+"High Street, Knutton, ST5",1386.0,320.0,2025-07-01 00:00:00,,Furnished,Terraced,3.0,2.0,,Private garden,ST5
+"Oxford Road, Maybank, Newcastle Under Lyme, Staffordshire, ST5",845.0,195.0,2024-11-17 00:00:00,Long term,Unfurnished,Terraced,2.0,1.0,TBC,,ST5
+"Hatrell Street, Newcastle Under Lyme",775.0,179.0,2024-11-17 00:00:00,Long term,,Terraced,2.0,1.0,A,,
+"High Street, Knutton, Newcastle-under-Lyme",800.0,185.0,2024-11-17 00:00:00,,Furnished,Terraced,2.0,2.0,A,,
+"Hassells Bridge, Keele, ST5",1000.0,231.0,2024-11-30 00:00:00,Long term,Furnished,Flat,2.0,2.0,,,ST5
+"Slaney Street, Newcastle-Under-Lyme, ST5",880.0,203.0,2024-11-17 00:00:00,Long term,Furnished,Terraced,2.0,1.0,,Private garden,ST5
+"Vale View; Porthill, ST5",1150.0,265.0,2024-11-17 00:00:00,Long term,Unfurnished,House,4.0,2.0,A,,ST5
+"West Brampton, Newcastle, Staffordshire, ST5",575.0,133.0,2024-11-17 00:00:00,Long term,Unfurnished,Apartment,1.0,1.0,A,,ST5
+"Booth Street, Chesterton, Newcastle-under-Lyme",695.0,160.0,,Short term,Unfurnished,Terraced,3.0,1.0,,Yes,
+"London Road, Chesterton, Newcastle",575.0,133.0,2024-11-30 00:00:00,Long term,Unfurnished,Apartment,1.0,1.0,A,,
+"Queens Gardens, Newcastle-under-Lyme",850.0,196.0,,Long term,Unfurnished,Apartment,1.0,1.0,A,,
+"Stubbs Gate, Newcastle, Newcastle-under-Lyme, Staffordshire",775.0,179.0,2024-11-17 00:00:00,Long term,,Terraced,2.0,,,Yes,
+"Victoria Street, Chesterton, Newcastle, Staffs",650.0,150.0,2024-11-17 00:00:00,Long term,Unfurnished,Apartment,1.0,1.0,A,Yes,
+"Shrewsbury Drive, Newcastle, Staffordshire, ST5",1200.0,277.0,2024-11-29 00:00:00,Long term,,Detached,3.0,1.0,C,Yes,ST5
+"The Crossway, May Bank, Newcastle",1100.0,254.0,,Long term,Unfurnished,Semi-Detached,3.0,1.0,C,Yes,
+"Brunswick Court, Brunswick Street, Newcastle Under Lyme, Staffordshire, ST5",1095.0,253.0,2025-01-03 00:00:00,Long term,Furnished,Apartment,2.0,2.0,C,,ST5
+"Windsor Court, No. 1 London Road, Newcastle Under Lyme, Staffordshire, ST5",1075.0,248.0,2024-11-17 00:00:00,Long term,Furnished,Apartment,2.0,2.0,C,Yes,ST5
+"High Street, Knutton, Newcastle-under-Lyme",1050.0,242.0,2024-11-17 00:00:00,,Furnished,Terraced,3.0,2.0,A,,
+"Rykeneld Court, Wolstanton",1000.0,231.0,,Long term,"Furnished or unfurnished, landlord is flexible",Block of Apartments,1.0,1.0,C,Yes,
+"Hassells Bridge, Keele, ST5",1000.0,231.0,2024-11-30 00:00:00,Long term,Furnished,Flat,2.0,2.0,,,ST5
+"Liverpool Road, Newcastle Under Lyme, ST5",1000.0,231.0,2024-12-29 00:00:00,Long term,Unfurnished,Terraced,3.0,2.0,,Private garden,ST5
+"Etruria House, Stoke-On-Trent, ST4",1000.0,231.0,2024-12-01 00:00:00,Long term,Furnished,Flat,2.0,2.0,,,ST4
+"Greylag Gate, Newcastle-Under-Lyme, ST5",1000.0,231.0,2024-11-17 00:00:00,Long term,"Furnished or unfurnished, landlord is flexible",Semi-Detached,3.0,2.0,,Private garden,ST5
+"Ferndown Drive, Newcastle",1000.0,231.0,,Long term,,Detached,3.0,1.0,D,Yes,
+"Marsh Box, 2 Marsh Parade, Newcastle Under Lyme, Staffordshire, ST5",995.0,230.0,2024-12-23 00:00:00,Long term,Furnished,Apartment,2.0,1.0,A,,ST5
+"Trinity Court, No1 London Road, Newcastle Under Lyme, Staffordshire, ST5",995.0,230.0,2024-11-17 00:00:00,Long term,Furnished,Apartment,2.0,1.0,C,,ST5
+"Enderley Street, Newcastle Under Lyme",995.0,230.0,,Long term,,Town House,3.0,2.0,C,Yes,
+"Exmoor Drive, Knutton",975.0,225.0,2024-12-16 00:00:00,Long term,Unfurnished,Semi-Detached,3.0,2.0,C,Yes,
+"Silverdale Road, Newcastle-under-Lyme, Staffordshire, ST5",950.0,219.0,2024-11-17 00:00:00,Long term,Part furnished,Terraced,2.0,1.0,C,Yes,ST5
+"Marsh Box, 2 Marsh Parade, Newcastle under Lyme, Staffordshire, ST5",925.0,213.0,2025-01-03 00:00:00,Long term,Furnished,Apartment,2.0,1.0,A,,ST5
+Stretton Road; Silverdale; ST5,900.0,208.0,2024-11-17 00:00:00,Long term,Unfurnished,Semi-Detached,4.0,1.0,A,Yes,ST5
+"Dart Place, Newcastle-under-Lyme, ST5",900.0,208.0,2024-11-17 00:00:00,Long term,Unfurnished,Town House,3.0,1.0,A,Private garden,ST5
+"Slaney Street, Newcastle-Under-Lyme, ST5",880.0,203.0,2024-11-17 00:00:00,Long term,Furnished,Terraced,2.0,1.0,,Private garden,ST5
+"Pilsbury Street, Newcastle-under-Lyme, ST5",850.0,196.0,2024-11-17 00:00:00,Long term,Unfurnished,Terraced,3.0,1.0,A,Private garden,ST5
+"Kinsey Street, Newcastle, Staffordshire, ST5",850.0,196.0,2024-11-17 00:00:00,,Furnished,Terraced,4.0,2.0,A,Yes,ST5
+"Queens Gardens, Newcastle-under-Lyme",850.0,196.0,,Long term,Unfurnished,Apartment,1.0,1.0,A,,
+"Comet Avenue, Newcastle, Staffordshire, ST5",850.0,196.0,2024-11-29 00:00:00,Long term,Part furnished,Terraced,2.0,2.0,B,Yes,ST5
+"Waveney Grove, Newcastle Under Lyme, Staffordshire, ST5",849.0,196.0,2024-11-17 00:00:00,Long term,Unfurnished,Flat,1.0,,,Communal garden,ST5
+"Oxford Road, Maybank, Newcastle Under Lyme, Staffordshire, ST5",845.0,195.0,2024-11-17 00:00:00,Long term,Unfurnished,Terraced,2.0,1.0,TBC,,ST5
+"Gainsborough Road, Chesterton",825.0,190.0,2024-11-18 00:00:00,Long term,Unfurnished,Semi-Detached,3.0,2.0,A,Yes,
+"Deakin's Yard, 22 Brunswick Street, Newcastle, Staffordshire. ST5",578.0,133.0,2024-11-17 00:00:00,,Furnished,Studio,,1.0,TBC,Yes,ST5
+"Deakin's Yard, 22 Brunswick Street, Newcastle, Staffordshire. ST5",594.0,137.0,2025-09-02 00:00:00,,Furnished,Studio,,1.0,TBC,Yes,ST5
+"Deakin's Yard, 22 Brunswick Street, Newcastle, Staffordshire. ST5",664.0,153.0,2025-09-02 00:00:00,,Furnished,Studio,,1.0,TBC,Yes,ST5
+"Deakin's Yard, 22 Brunswick Street, Newcastle, Staffordshire. ST5",699.0,161.0,2024-11-17 00:00:00,,Furnished,Studio,,1.0,TBC,Yes,ST5
+"Deakin's Yard, 22 Brunswick Street, Newcastle, Staffordshire. ST5",723.0,167.0,2024-11-17 00:00:00,,Furnished,Studio,,1.0,TBC,Yes,ST5
+"Deakin's Yard, 22 Brunswick Street, Newcastle, Staffordshire. ST5",664.0,153.0,2024-11-17 00:00:00,,Furnished,Studio,,1.0,TBC,Yes,ST5
+"Orme House, Orme Road",595.0,137.0,2024-11-17 00:00:00,,Part furnished,Flat,1.0,,A,,
+"Harrowby Drive, Newcastle-under-Lyme",1750.0,404.0,2024-11-17 00:00:00,Long term,Unfurnished,Detached,4.0,3.0,F,Private garden,
+"Lancaster Avenue, Newcastle, ST5",1517.0,350.0,2025-07-01 00:00:00,,Furnished,Flat,5.0,2.0,,Private garden,ST5
+"Enderley Street, Newcastle-under-Lyme, ST5",795.0,183.0,2024-12-01 00:00:00,Long term,Unfurnished,Flat,2.0,1.0,B,Yes,ST5
+"Lancaster Avenue, Newcastle, ST5",1209.0,279.0,2025-07-01 00:00:00,,Furnished,Semi-Detached,4.0,2.0,,Private garden,ST5
+"The Limes, First Avenue, Newcastle-under-Lyme",1250.0,288.0,2024-11-29 00:00:00,Long term,Unfurnished,Detached,3.0,1.0,,Yes,
+"The Mill, Enderley Street, Newcastle",765.0,177.0,2024-11-17 00:00:00,Long term,,Apartment,2.0,1.0,B,,
+Stubbs' Gate,455.0,105.0,2025-07-01 00:00:00,,Furnished,House Share,4.0,,,Yes,
+"Newcastle Street (Student Accommodation), Silverdale, ST5",1365.0,315.0,2025-07-28 00:00:00,,Furnished,Terraced,3.0,1.0,,Private garden,ST5
+"Oxford Road, Newcastle-Under-Lyme, ST5",650.0,150.0,2024-11-17 00:00:00,Long term,Furnished,House Share,1.0,5.0,,Private garden,ST5
+"Liverpool Road, Newcastle Under Lyme, ST5",650.0,150.0,2024-11-17 00:00:00,Long term,Furnished,Studio,,1.0,,,ST5
+"Kimberley Road, Newcastle-under-Lyme, ST5",542.0,125.0,2025-07-08 00:00:00,,Furnished,Terraced,4.0,1.0,,,ST5
+"Gloucester Grange, Newcastle, Staffordshire, ST5",650.0,150.0,2024-11-17 00:00:00,Long term,Unfurnished,Apartment,1.0,1.0,A,,ST5
+"Double Room, House Share, London Road",425.0,98.0,2024-11-17 00:00:00,,Furnished,House Share,1.0,2.0,,,
+"King Street, Cross Heath, Newcastle-under-Lyme, ST5",1646.0,380.0,2024-11-17 00:00:00,,Furnished,Terraced,4.0,1.0,A,Private garden,ST5
+"Marsh Box, 2 Marsh Parade, Newcastle Under Lyme, Staffordshire, ST5",995.0,230.0,2024-12-23 00:00:00,Long term,Furnished,Apartment,2.0,1.0,A,,ST5
+"Brunswick Court, Brunswick Street, Newcastle Under Lyme, Staffordshire, ST5",1095.0,253.0,2025-01-03 00:00:00,Long term,Furnished,Apartment,2.0,2.0,C,,ST5
+"Oxford Road, Newcastle-Under-Lyme, ST5",650.0,150.0,2024-11-17 00:00:00,Long term,Furnished,House Share,1.0,5.0,,Private garden,ST5
+"Liverpool Road, Newcastle Under Lyme, ST5",650.0,150.0,2024-11-17 00:00:00,Long term,Furnished,Studio,,1.0,,,ST5
+"Well Street, Newcastle Under Lyme",630.0,145.0,2024-11-17 00:00:00,Long term,Part furnished,Terraced,2.0,1.0,A,Yes,
+"King Street, Newcastle-Under-Lyme, ST5",606.0,140.0,2025-07-15 00:00:00,,Furnished,House Share,1.0,1.0,E,Private garden,ST5
+"Flats 14, 15 & 16, Gloucester Grange, Clayton, ST5 3EE",600.0,138.0,2024-11-17 00:00:00,Long term,Unfurnished,Ground Flat,1.0,1.0,,,ST5
+"Gloucester Grange, Newcastle, Staffordshire, ST5",600.0,138.0,2024-11-17 00:00:00,Long term,Unfurnished,Apartment,1.0,1.0,A,,ST5
+"Gloucester Grange, Newcastle, Staffordshire, ST5",600.0,138.0,2024-11-17 00:00:00,Long term,Unfurnished,Apartment,1.0,1.0,A,,ST5
+"Flats 28, 29, 30 &31 Gloucester Grange, Clayton, ST5 3EE",600.0,138.0,2024-11-17 00:00:00,Long term,Unfurnished,Flat,1.0,,,,ST5
+"Orme House, Orme Road",595.0,137.0,2024-11-17 00:00:00,,Part furnished,Flat,1.0,,A,,
+"Deakin's Yard, 22 Brunswick Street, Newcastle, Staffordshire. ST5",594.0,137.0,2025-09-02 00:00:00,,Furnished,Studio,,1.0,TBC,Yes,ST5
+"Deakin's Yard, 22 Brunswick Street, Newcastle, Staffordshire. ST5",578.0,133.0,2024-11-17 00:00:00,,Furnished,Studio,,1.0,TBC,Yes,ST5
+"London Road, Chesterton, Newcastle",575.0,133.0,2024-11-30 00:00:00,Long term,Unfurnished,Apartment,1.0,1.0,A,,
+"Vale View, Newcastle-under-Lyme",575.0,133.0,,Long term,Furnished,House Share,1.0,1.0,B,,
+"West Brampton, Newcastle, Staffordshire, ST5",575.0,133.0,2024-11-17 00:00:00,Long term,Unfurnished,Apartment,1.0,1.0,A,,ST5
+"Kimberley Road, Newcastle-under-Lyme, ST5",542.0,125.0,2025-07-08 00:00:00,,Furnished,Terraced,4.0,1.0,,,ST5
+"London Road, Newcastle-under-Lyme, ST5",541.0,125.0,2024-11-17 00:00:00,,Furnished,House Share,1.0,1.0,F,Private garden,ST5
+"London Road, Newcastle-under-Lyme, ST5",541.0,125.0,2024-11-17 00:00:00,,Furnished,House Share,1.0,1.0,F,Private garden,ST5
+"London Road, Newcastle-under-Lyme, ST5",541.0,125.0,2024-11-17 00:00:00,,Furnished,House Share,1.0,1.0,F,Private garden,ST5
+"London Road, Newcastle-under-Lyme, ST5",541.0,125.0,2024-11-17 00:00:00,,Furnished,Detached,1.0,1.0,F,Private garden,ST5
+"The Midway, Newcastle-Under-Lyme, ST5",540.0,125.0,2024-11-17 00:00:00,Long term,Furnished,Studio,,1.0,,,ST5
+"Liverpool Road, Newcastle-under-Lyme, ST5",520.0,120.0,2025-07-08 00:00:00,,Furnished,Terraced,5.0,1.0,,,ST5
+"Comet Avenue, Newcastle, Stoke-on-Trent, ST5 9FB",500.0,115.0,2024-11-17 00:00:00,,,House,1.0,,,Yes,ST5
+"Comet Avenue, Newcastle, Stoke-on-Trent, ST5 9FB",500.0,115.0,2024-11-17 00:00:00,,,House,1.0,,,Yes,ST5
+"Vale View, Newcastle-under-Lyme",500.0,115.0,,Long term,Unfurnished,House Share,1.0,1.0,,,

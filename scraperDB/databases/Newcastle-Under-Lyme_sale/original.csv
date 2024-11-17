@@ -1,0 +1,59 @@
+address,price_pcm,property_type,bedrooms,bathrooms,tenure,council_tax,garden,postcode
+"Seabridge Lane, Seabridge, Newcastle-under-Lyme, Staffordshire",875000.0,Detached,4,3.0,Freehold,,Yes,
+"Dockenfield, Seabridge Lane, Newcastle under Lyme",800000.0,Detached,5,3.0,Freehold,G,"Patio, Private garden, Enclosed garden",
+"Talke Road, Newcastle-under-Lyme",750000.0,Land,3,2.0,,,,
+"Priory Road, Westlands",750000.0,Detached,4,2.0,Freehold,F,Yes,
+"Sidmouth Avenue, Newcastle",700000.0,Detached,5,3.0,Freehold,,Yes,
+"Sneyd Avenue, Westlands",700000.0,Detached,4,3.0,Freehold,D,Yes,
+"Allensway, Seabridge",700000.0,Detached,5,2.0,Freehold,G,Yes,
+"Sneyd Avenue, Westlands",695000.0,Detached,4,2.0,Freehold,,Yes,
+"Sidmouth Avenue, Newcastle",650000.0,Detached,5,3.0,Freehold,,Yes,
+"Seabridge Lane, Westlands, Newcastle under Lyme",650000.0,Detached,4,1.0,Freehold,,"Back garden, Front garden",
+"Springwood Road, Newcastle-under-Lyme, Staffordshire, ST5 6BP",650000.0,Detached,3,2.0,Freehold,E,Yes,ST5
+"Newcroft, Priory Road, Newcastle-under-Lyme",600000.0,Detached,4,2.0,Freehold,G,"Patio, Front garden",
+"Montfort Place, Westlands, Newcastle-under-Lyme",599999.0,Detached,4,2.0,Freehold,E,Front garden,
+"Oaklands Avenue, Newcastle",595000.0,Detached Bungalow,4,2.0,Freehold,,Yes,
+"Beresford Crescent, Newcastle, ST5",575000.0,Detached,5,2.0,Freehold,F,Yes,ST5
+"Sherborne Drive, Westlands",550000.0,Detached,5,2.0,Freehold,E,Yes,
+"Bluebell Drive, Seabridge, Newcastle under Lyme",550000.0,Detached,5,3.0,Freehold,F,"Patio, Rear garden, Private garden",
+"Etruria Road, Basford, Newcastle under Lyme",550000.0,Semi-Detached,7,4.0,Freehold,,Yes,
+"Clayton Road,
+Newcastle Under Lyme,
+ST5 4AF",550000.0,Detached,5,,Freehold,Ask developer,Yes,ST5
+"Fermain Close, Seabridge",550000.0,Detached,4,3.0,Freehold,F,Yes,
+"Montfort Place, NEWCASTLE, Staffordshire, ST5",525000.0,,4,2.0,Freehold,F,Yes,ST5
+"Castel Close, Seabridge, Newcastle-under-Lyme",500000.0,Detached,4,2.0,Freehold,F,Yes,
+"Northwood Lane, Newcastle",495000.0,Detached,4,2.0,Freehold,F,Yes,
+"Sandy Lane, Newcastle",490000.0,House,4,2.0,Freehold,,Yes,
+"Clayton Road,
+Newcastle Under Lyme,
+ST5 4AF",489995.0,Detached,4,,Freehold,Ask developer,Yes,ST5
+"The Pippins, Westbury Park",480000.0,Detached,4,4.0,Freehold,E,Yes,
+"Clayton Road,
+Newcastle Under Lyme,
+ST5 4AF",479995.0,Detached,4,,Freehold,Ask developer,Yes,ST5
+"Dartmouth Avenue, Newcastle, ST5",475000.0,Detached,4,2.0,Freehold,G,Yes,ST5
+"Priory Road, Westlands, Newcastle-under-Lyme, ST5",475000.0,Detached,4,2.0,Freehold,F,Yes,ST5
+"Highfield Court, NEWCASTLE, Staffordshire, ST5",475000.0,Detached,4,3.0,Freehold,F,Yes,ST5
+"Abbots Way, Westlands, Newcastle under Lyme",465000.0,Detached,3,1.0,Freehold,E,Yes,
+"Sherborne Drive, Newcastle",465000.0,Detached,3,1.0,Freehold,F,Yes,
+"Portland Grove, Westbury Park",450000.0,Detached,4,3.0,Freehold,E,Yes,
+"Harrowby Drive, Westlands",450000.0,Detached Bungalow,3,2.0,Freehold,F,Yes,
+"Portland Grove, Newcastle, ST5",450000.0,Detached,4,2.0,Freehold,E,Yes,ST5
+"Beechwood Close, Clayton, Newcastle",450000.0,Detached,4,1.0,Freehold,E,Yes,
+"Lancaster Road, Newcastle under Lyme",450000.0,Detached,4,2.0,Freehold,E,"Patio, Private garden",
+"Winchester Drive, Westlands, Newcastle-under-Lyme",450000.0,Detached Bungalow,3,1.0,Freehold,D,Yes,
+"Clayton Road,
+Newcastle Under Lyme,
+ST5 4AF",439995.0,Detached,3,,Freehold,Ask developer,Yes,ST5
+"Geneva Drive, NEWCASTLE, Staffordshire, ST5",425000.0,Detached,5,2.0,Freehold,F,Yes,ST5
+"York House, Clayton Road, Clayton, Newcastle-under-Lyme",425000.0,Detached,3,1.0,Freehold,E,Private garden,
+"Priory Road, Westlands, Newcastle",425000.0,Detached,4,3.0,Freehold,F,Yes,
+"Great Row View, Wolstanton, Newcastle-under-Lyme. ST5",425000.0,Detached,5,2.0,Freehold,D,Private garden,ST5
+"Brookfields House, Clayton Road",415000.0,Retirement Property,3,1.0,Leasehold,,Yes,
+"Clayton Road, Newcastle",410000.0,House,4,2.0,Freehold,,Yes,
+"Clayton Road,
+Newcastle Under Lyme,
+ST5 4AF",399950.0,Semi-Detached,4,,Ask developer,Ask developer,Yes,ST5
+"The Brampton, Newcastle",395000.0,Detached,3,1.0,Freehold,F,Yes,
+"Fountains Avenue, Westlands, Newcastle-under-Lyme",390000.0,Detached Bungalow,3,1.0,Freehold,D,Yes,

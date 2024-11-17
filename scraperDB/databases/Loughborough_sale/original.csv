@@ -1,0 +1,57 @@
+address,price_pcm,property_type,bedrooms,bathrooms,tenure,council_tax,garden,postcode
+"Nanpantan Road, Nanpantan, Loughborough",2000000.0,Detached,6,4.0,Freehold,H,Yes,
+"Nanpantan Road, Nanpantan, Loughborough, LE11",685000.0,Detached,5,2.0,Freehold,,Yes,LE11
+"Nanpantan Road, Loughborough, LE11",650000.0,Detached,5,3.0,Freehold,F,Yes,LE11
+"Leopold Street, LOUGHBOROUGH",650000.0,Terraced,10,10.0,Freehold,E,Back garden,
+"Burton Street, Loughborough",600000.0,Semi-Detached,5,2.0,Freehold,G,"Back garden, Front garden",
+"Bill Rock House, Packe Street, Loughborough, LE11 3EZ - SIX BED HMO & ONE BED FLAT",580000.0,Town House,7,7.0,Freehold,,,LE11
+"Park Street, Loughborough",575000.0,Detached,5,2.0,Freehold,E,Yes,
+"Fishpond Way, Loughborough, LE11",570000.0,Detached,5,2.0,Freehold,F,Private garden,LE11
+"Forest Road, Loughborough",550000.0,Semi-Detached,6,2.0,Freehold,E,"Back garden, Front garden",
+"Sunnyhill Road, Loughborough, LE11",550000.0,Detached,3,2.0,Freehold,E,Private garden,LE11
+"Haymeadow Close, Loughborough",550000.0,Detached,6,3.0,Freehold,E,"Back garden, Front garden",
+"Maxwell Drive, Loughborough, LE11 5EJ",525000.0,Detached,5,3.0,Freehold,F,Yes,LE11
+"Park Road, Loughborough, Leicestershire, LE11",510000.0,Bungalow,4,4.0,Freehold,C,Yes,LE11
+"Farndale Drive, Loughborough",500000.0,Detached,5,2.0,Freehold,E,"Back garden, Front garden",
+"William Street, LOUGHBOROUGH",499950.0,Detached,4,3.0,Freehold,E,"Back garden, Front garden",
+"Grasmere Road, Loughborough, LE11",490000.0,Detached,4,2.0,Freehold,E,Private garden,LE11
+"Ploughlands, Quorn",485000.0,Detached,4,2.0,Freehold,E,Yes,
+"Japonica Close, Loughborough, Leicestershire, LE11",475000.0,House,4,2.0,Freehold,E,Yes,LE11
+"Priory Road, Loughborough, Leicestershire",465000.0,Detached,4,3.0,Freehold,F,Yes,
+"Pitsford Drive, Loughborough",465000.0,Detached,5,2.0,Freehold,E,Yes,
+"Derby Road,
+Loughborough,
+LE12 5BT",464995.0,Detached,5,,Ask developer,Ask developer,Yes,LE12
+"John Boden Way, Loughborough",460000.0,Detached,4,2.0,Freehold,E,Yes,
+"Farndale Drive, Loughborough, LE11",460000.0,Detached Bungalow,3,2.0,Freehold,C,Private garden,LE11
+"Sharter Drive, Loughborough",450000.0,Detached,4,2.0,Freehold,F,Yes,
+"Montague Drive, Loughborough",450000.0,Detached,4,1.0,Freehold,E,Yes,
+"Knightthorpe Road, Loughborough, Leicestershire, LE11",450000.0,Detached,4,1.0,Freehold,D,,LE11
+"Brockington Place, Loughborough",450000.0,Detached,4,2.0,Freehold,E,Yes,
+"Upper Green, Loughborough",450000.0,Detached,4,2.0,Freehold,E,Yes,
+"Derby Road,
+Loughborough,
+LE12 5BT",444995.0,Detached,5,,Ask developer,Ask developer,Yes,LE12
+"Ternouth Close, Hathern, Loughborough",444995.0,Detached,5,2.0,Freehold,,Yes,
+"Chester Close, Loughborough",440000.0,Detached,4,2.0,Freehold,D,Yes,
+"Derby Road,
+Loughborough,
+LE12 5BT",435995.0,Detached,5,,Ask developer,Ask developer,Yes,LE12
+"Westfield Drive, Loughborough",435000.0,Detached,3,1.0,Freehold,E,Yes,
+"Nanpantan Road, Loughborough, LE11",435000.0,Detached,3,2.0,Freehold,D,Yes,LE11
+"Monsarrat Way, Loughborough",430000.0,Detached,5,3.0,Freehold,D,"Back garden, Front garden",
+"William Street, Loughborough",425000.0,Detached,4,3.0,Freehold,D,Yes,
+"UK, Loughborough, LE11",425000.0,Detached,4,3.0,Freehold,D,Private garden,LE11
+"Grassholme Drive, Loughborough",425000.0,Detached Bungalow,4,2.0,Freehold,F,Yes,
+"Kirkstone Drive, Loughborough, LE11",425000.0,Detached,4,2.0,Freehold,E,Yes,LE11
+"Montague Drive, Loughborough",425000.0,Detached,4,2.0,Freehold,E,Yes,
+"Leconfield Road, Loughborough, LE11",420000.0,Detached,4,2.0,Freehold,E,Yes,LE11
+"Derby Road,
+Loughborough,
+LE12 5BT",416995.0,Detached,4,,Ask developer,Ask developer,Yes,LE12
+"Glen Road, Loughborough",400000.0,Detached,4,2.0,Freehold,D,Yes,
+"Ledbury Road, Loughborough",400000.0,Detached,4,1.0,Freehold,D,Yes,
+"Pitsford Drive, Loughborough, LE11",395000.0,Detached,4,1.0,Freehold,D,Private garden,LE11
+"Leicester Road, Loughborough",395000.0,Detached,3,1.0,Freehold,D,Yes,
+"Pitsford Drive, Loughborough",390000.0,Detached,4,2.0,Freehold,E,"Back garden, Front garden",
+"Mitchell Drive, Loughborough, Leicestershire, LE11",390000.0,Detached,4,2.0,Freehold,TBC,Yes,LE11

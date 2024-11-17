@@ -1,0 +1,97 @@
+address,price_pcm,price_per_week,let_available_date,furnish_type,property_type,bedrooms,bathrooms,council_tax,let_type,postcode
+"East Parade, Heworth",7761.0,1791.0,2025-07-05 00:00:00,Furnished,End of Terrace,9.0,9.0,G,,
+"Lawrence Street, York",7605.0,1755.0,2025-07-08 00:00:00,Furnished,End of Terrace,9.0,3.0,E,,
+"Millfield Lane, Hull Road",6760.0,1560.0,2025-07-06 00:00:00,Furnished,Semi-Detached,8.0,2.0,D,,
+"Carlton Avenue, York, North Yorkshire, YO10",6717.0,1550.0,2025-07-14 00:00:00,Furnished,Semi-Detached,8.0,,,,YO10
+"East Parade, Heworth",6587.0,1520.0,2025-07-20 00:00:00,Furnished,Terraced,8.0,3.0,F,,
+"Green Dykes Lane, York, North Yorkshire, YO10",6218.0,1435.0,2025-07-16 00:00:00,Furnished,House Share,7.0,,,,YO10
+"Yarburgh Way, Badger Hill",6158.0,1421.0,2025-07-23 00:00:00,Furnished,Detached,7.0,2.0,E,,
+"Hull Road, Tang Hall",6158.0,1421.0,2025-07-07 00:00:00,Furnished,Semi-Detached,7.0,3.0,F,,
+"Hull Road, Osbaldwick",6127.0,1414.0,2025-08-07 00:00:00,Furnished,Semi-Detached,7.0,3.0,C,,
+"Constantine Avenue, Tang Hall, York",6127.0,1414.0,2025-08-01 00:00:00,Furnished,Semi-Detached,6.0,2.0,,,
+"Ingleborough Avenue, Tang Hall",5915.0,1365.0,2025-07-08 00:00:00,Furnished,Semi-Detached,7.0,3.0,B,,
+"White Cross Road, York, North Yorkshire, YO31",5893.0,1360.0,2025-07-19 00:00:00,Furnished,End of Terrace,8.0,,,,YO31
+"Kitchener Street, Huntington Road",5612.0,1295.0,2025-08-07 00:00:00,Furnished,End of Terrace,7.0,3.0,D,,
+"Burton Stone Lane, Clifton",5430.0,1253.0,2025-08-05 00:00:00,Furnished,End of Terrace,7.0,2.0,C,,
+"The Crescent, Heslington",5382.0,1242.0,2025-07-07 00:00:00,Furnished,Semi-Detached,6.0,6.0,C,,
+"Vanbrugh Drive, Badger Hill",5356.0,1236.0,2025-08-04 00:00:00,Furnished,Semi-Detached,6.0,2.0,C,,
+"Hull Road, Tang Hall",5356.0,1236.0,2025-07-20 00:00:00,Furnished,Semi-Detached,6.0,2.0,C,,
+"Hull Road, Tang Hall",5356.0,1236.0,2025-07-07 00:00:00,Furnished,Semi-Detached,6.0,3.0,E,,
+"Deramore Drive, Badger Hill",5356.0,1236.0,2025-07-07 00:00:00,Furnished,Detached,6.0,3.0,D,,
+"Deramore Drive, Badger Hill",5356.0,1236.0,2025-07-21 00:00:00,Furnished,Detached,6.0,3.0,E,,
+"Newland Park Drive, Hull Road",5330.0,1230.0,2025-07-05 00:00:00,Furnished,Semi-Detached,6.0,2.0,C,,
+"Windmill Lane, Heslington",5330.0,1230.0,2025-08-22 00:00:00,Furnished,Semi-Detached,6.0,2.0,C,,
+"Newland Park Drive, Hull Road",5330.0,1230.0,2025-07-23 00:00:00,Furnished,Semi-Detached,6.0,2.0,C,,
+"Hull Road, Tang Hall",5330.0,1230.0,2025-08-22 00:00:00,Furnished,End of Terrace,6.0,2.0,B,,
+"Agar Street, York, North Yorkshire, YO31 7PQ",1350.0,312.0,2025-02-01 00:00:00,Furnished,Terraced,2.0,1.0,C,Long term,YO31
+"Marlowe House, Holgate Park Drive, York, YO26",1050.0,242.0,2024-11-17 00:00:00,Furnished,Apartment,1.0,1.0,B,Long term,YO26
+"Fishergate, York YO10",2000.0,462.0,2024-11-29 00:00:00,Part furnished,House,4.0,1.0,B,Long term,YO10
+"99 Main Street, Fulford, York",1000.0,231.0,2024-11-17 00:00:00,Unfurnished,End of Terrace,2.0,1.0,C,Long term,
+"North Moor Croft, Huntington, York, YO32",1000.0,231.0,2025-01-22 00:00:00,Unfurnished,Apartment,2.0,1.0,B,Long term,YO32
+"First Floor Flat, 45 Heslington Lane, Fulford",895.0,207.0,2024-11-25 00:00:00,Unfurnished,Flat,1.0,1.0,A,Long term,
+"Apt 1, Piccadilly Residence #475950",1144.0,264.0,2025-07-01 00:00:00,Furnished,Apartment,,1.0,,Long term,
+"Cromer Street, York, North Yorkshire, YO30",1050.0,242.0,2024-11-30 00:00:00,Unfurnished,,1.0,1.0,A,Long term,YO30
+"Westgate Apartments, York",1600.0,369.0,2024-11-22 00:00:00,Unfurnished,Flat,2.0,,,Long term,
+"Priory Street, Bishophill, York, YO1",775.0,179.0,2024-12-19 00:00:00,Unfurnished,Flat,1.0,1.0,A,Long term,YO1
+Castle Chambers,1500.0,346.0,2024-12-06 00:00:00,Furnished,Flat,2.0,1.0,,Long term,
+"Langley House, Dodsworth Avenue, York",975.0,225.0,2024-11-17 00:00:00,,Apartment,1.0,1.0,,Long term,
+"Whitby Avenue, York",950.0,219.0,2024-11-25 00:00:00,Unfurnished,Flat,2.0,1.0,C,Long term,
+"Cromer Street, York, YO30",4247.0,980.0,2025-09-05 00:00:00,Furnished,Terraced,5.0,2.0,,,YO30
+"Galtres Road, York",1400.0,323.0,2024-11-20 00:00:00,Unfurnished,Bungalow,3.0,1.0,,Long term,
+"Lawrence Street, York",850.0,196.0,2024-11-29 00:00:00,Furnished,Flat,1.0,1.0,,Long term,
+"Wenlock Terrace, York, YO10",895.0,207.0,2024-12-07 00:00:00,Furnished,Flat,1.0,1.0,,Long term,YO10
+"Victoria, Hudson Quarter, York",1650.0,381.0,,Unfurnished,Apartment,2.0,2.0,D,Long term,
+"Hesketh Bank, Badger Hill",5070.0,1170.0,2025-08-20 00:00:00,Furnished,Semi-Detached,6.0,2.0,C,,
+"Garland Street, York",1000.0,231.0,2024-11-17 00:00:00,Unfurnished,Terraced,2.0,1.0,A,Long term,
+"Stanley Street, Haxby Road",4160.0,960.0,2025-09-01 00:00:00,Furnished,Terraced,5.0,2.0,B,,
+"Postern Close, Clementhorpe, York, YO23",1200.0,277.0,2024-11-18 00:00:00,Furnished,Flat,2.0,1.0,E,Long term,YO23
+"Stanley Street, Haxby Road",4160.0,960.0,2025-09-01 00:00:00,Furnished,Terraced,5.0,2.0,B,,
+"St Barnabas Close, Leeman Road, York, YO26",1200.0,277.0,2024-12-20 00:00:00,Unfurnished,Terraced,3.0,1.0,C,Long term,YO26
+Morcar House 81 Main Street Fulford,1500.0,346.0,2024-11-17 00:00:00,Unfurnished,Terraced,3.0,1.0,,Long term,
+"Leetham House, Leetham Lane, York, YO1",1050.0,242.0,2024-12-12 00:00:00,Furnished,Apartment,1.0,1.0,,Long term,YO1
+"Shelley House, Acomb Road, York, YO24",1050.0,242.0,2024-11-17 00:00:00,Unfurnished,Flat,2.0,2.0,C,Long term,YO24
+"Argyle Street, York",1000.0,231.0,2024-12-20 00:00:00,Unfurnished,Terraced,2.0,1.0,B,Long term,
+"Stonegate Court, Blake Street, York, YO1 8QF",1300.0,300.0,2024-11-18 00:00:00,Unfurnished,Flat,1.0,1.0,,Long term,YO1
+"Tannery Mews, Lawrence Street, York",1200.0,277.0,,Furnished,Duplex,2.0,1.0,C,Long term,
+"Heworth Village, York, YO31",1700.0,392.0,2024-11-30 00:00:00,Unfurnished,Terraced,3.0,2.0,D,Long term,YO31
+"Strand House, Piccadilly Plaza, York, YO1",975.0,225.0,2024-12-07 00:00:00,Unfurnished,Flat,1.0,1.0,C,Long term,YO1
+"East Parade, Heworth",1250.0,288.0,2024-12-10 00:00:00,Unfurnished,Terraced,3.0,2.0,D,Long term,
+"Russet House, Birch Close, Huntington, York, YO31",1000.0,231.0,2025-01-17 00:00:00,Furnished,Apartment,2.0,1.0,B,Long term,YO31
+"Beckett Drive, Osbaldwick, York, YO19 5RX",1100.0,254.0,2024-11-29 00:00:00,Unfurnished,Flat,2.0,1.0,,Long term,YO19
+"20 Herbert Street, York",1550.0,358.0,2025-01-06 00:00:00,"Furnished or unfurnished, landlord is flexible",End of Terrace,4.0,1.0,TBC,Long term,
+"Cranbrook Road, Acomb, York",650.0,150.0,2024-11-29 00:00:00,Part furnished,Apartment,1.0,1.0,A,Long term,
+"Bishopthorpe Road, York, North Yorkshire, YO23",1950.0,450.0,,Furnished,Apartment,2.0,,,Long term,YO23
+Ashville Street,995.0,230.0,2024-12-16 00:00:00,Unfurnished,Terraced,2.0,1.0,B,Long term,
+"Bellerby Court, Hungate, York, YO1",950.0,219.0,2024-11-22 00:00:00,Unfurnished,Flat,1.0,1.0,C,Long term,YO1
+"Ripon Croft, York, North Yorkshire, YO31",1000.0,231.0,2024-11-17 00:00:00,Part furnished,Apartment,2.0,1.0,TBC,Long term,YO31
+"Hull Road, York, YO10",615.0,142.0,2024-12-16 00:00:00,Furnished,House Share,1.0,,TBC,Long term,YO10
+"William Court, Blue Bridge Lane, York, YO10",1700.0,392.0,2024-12-09 00:00:00,Unfurnished,House,3.0,2.0,E,Long term,YO10
+"Bootham Crescent, York, North Yorkshire, YO30",1300.0,300.0,2024-11-17 00:00:00,Unfurnished,Apartment,2.0,1.0,C,Long term,YO30
+"Bootham Crescent, York, North Yorkshire, YO30",1300.0,300.0,2024-11-17 00:00:00,Unfurnished,Apartment,2.0,1.0,TBC,Long term,YO30
+"Esk Drive, Nether Poppleton",875.0,202.0,2024-11-17 00:00:00,Unfurnished,Apartment,2.0,2.0,C,Short term,
+"Church Gate, York",1250.0,288.0,2024-12-07 00:00:00,Unfurnished,Semi-Detached,3.0,1.0,C,Long term,
+Centurion Square,995.0,230.0,2024-12-17 00:00:00,Furnished,Ground Flat,1.0,1.0,,Long term,
+"Glencoe Street, York, YO30",925.0,213.0,2024-11-18 00:00:00,Furnished,Flat,1.0,1.0,A,Long term,YO30
+"Ninth Avenue, Heworth",5070.0,1170.0,2025-07-01 00:00:00,Furnished,End of Terrace,6.0,2.0,B,,
+Wellington Street,2600.0,600.0,2025-07-21 00:00:00,Furnished,House,4.0,2.0,B,,
+"Lamel Street, Hull Road",4312.0,995.0,2025-07-07 00:00:00,Furnished,Semi-Detached,5.0,3.0,C,,
+"Lamel Street, Hull Road",5174.0,1194.0,2025-07-09 00:00:00,Furnished,Detached,6.0,3.0,D,,
+"Apartment 7 North Lodge Clifton Park Avenue, York",1100.0,254.0,2024-11-17 00:00:00,Unfurnished,Apartment,2.0,2.0,C,Long term,
+"The School House, 2 Walmgate, York, North Yorkshire, YO1",2350.0,542.0,2025-01-05 00:00:00,Furnished,Cottage,1.0,,,Long term,YO1
+"Fetter Lane, York, North Yorkshire, YO1",2150.0,496.0,2025-01-01 00:00:00,Furnished,Flat,2.0,,,Long term,YO1
+"Wellington Street, York",3207.0,740.0,2025-07-18 00:00:00,Furnished,House,4.0,2.0,B,,
+"Summerhouse Mews, York, North Yorkshire, YO30",2000.0,462.0,2025-01-01 00:00:00,Furnished,Ground Flat,1.0,,,Short term,YO30
+"Bootham Row, York, North Yorkshire, YO30",1750.0,404.0,2024-12-22 00:00:00,Furnished,Flat,1.0,,,Short term,YO30
+"Hartoft Street, YORK",1350.0,312.0,2024-11-17 00:00:00,,Terraced,3.0,1.0,,Long term,
+"Hempland Lane, York, North Yorkshire, YO31",1750.0,404.0,2024-11-30 00:00:00,Furnished,Apartment,1.0,1.0,,Short term,YO31
+"Paragon House, Fawcett Street, York, YO10",1200.0,277.0,2024-12-14 00:00:00,Part furnished,Flat,2.0,1.0,C,Long term,YO10
+"North Eastern Terrace, York, YO24",1150.0,265.0,2024-11-22 00:00:00,Unfurnished,Terraced,2.0,1.0,,Long term,YO24
+"Second Avenue, Heworth",4073.0,940.0,2025-07-20 00:00:00,Furnished,End of Terrace,5.0,3.0,D,,
+"Garfield Terrace, York",900.0,208.0,2024-11-19 00:00:00,Unfurnished,Terraced,2.0,1.0,A,Long term,
+"Prospect Terrace, Fulford, York, YO10",1100.0,254.0,2025-01-13 00:00:00,Unfurnished,Terraced,2.0,1.0,B,Long term,YO10
+"Temple Avenue, Tang Hall",4117.0,950.0,2025-09-04 00:00:00,Furnished,Semi-Detached,5.0,2.0,B,,
+"Escrick Terrace, Fishergate",5070.0,1170.0,2025-07-18 00:00:00,Furnished,House,6.0,2.0,D,,
+"Aldersyde House, Aldersyde, York, YO24",950.0,219.0,2024-11-30 00:00:00,Unfurnished,Flat,1.0,1.0,C,Long term,YO24
+"Lawrence Street, York",3380.0,780.0,2025-07-24 00:00:00,Furnished,House,4.0,2.0,C,,
+"Hull Road, York",5148.0,1188.0,2025-08-01 00:00:00,Furnished,House,6.0,2.0,E,,
+"Jervaulx House, Lawrence Square",2470.0,570.0,2025-07-04 00:00:00,Furnished,Private Halls,3.0,2.0,,,

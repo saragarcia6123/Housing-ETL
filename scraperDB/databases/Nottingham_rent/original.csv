@@ -1,0 +1,97 @@
+address,price_pcm,price_per_week,let_available_date,furnish_type,property_type,bedrooms,bathrooms,postcode
+"263 Mansfield Road, Nottingham, NG1 3FT",2340.0,540.0,2025-08-11 00:00:00,Furnished,Town House,4.0,1.0,NG1
+"Apartment 16, Varsity City, Lace Market. NG1",3770.0,870.0,2025-08-28 00:00:00,,Apartment,6.0,2.0,NG1
+"Apartment 15, Varsity City, Lace Market. NG1",3770.0,870.0,2025-08-28 00:00:00,,Apartment,6.0,2.0,NG1
+"B6 Portland House, Carrington Street, Nottingham, Nottinghamshire, NG1",520.0,120.0,2024-11-17 00:00:00,Furnished,Block of Apartments,1.0,,B6
+"Studio 6, 392 Alfreton Road, Nottingham, Nottinghamshire, NG7",585.0,135.0,2025-09-01 00:00:00,Furnished,Studio,,,NG7
+"154 Mansfield Road, NOTTINGHAM NG1 3HW",3588.0,828.0,2025-08-19 00:00:00,Furnished,House,6.0,2.0,NG1
+"Flat 6, Commercial Point, Wollaton Road, Beeston, Nottingham. NG9 2NG",3033.0,700.0,2025-08-20 00:00:00,Furnished,Apartment,4.0,4.0,NG9
+"Flat 5, Commercial Point, Wollaton Road, Beeston, Nottingham. NG9 2NG",3033.0,700.0,2025-09-10 00:00:00,Furnished,Apartment,4.0,4.0,NG9
+"Millstream Court, Peveril Street, Nottingham, Nottinghamshire, NG7",693.0,160.0,2025-08-04 00:00:00,Furnished,Studio,,,NG7
+"Bentinck Road, Nottingham, NG7",2492.0,575.0,2025-08-08 00:00:00,Furnished,Terraced,5.0,3.0,NG7
+"94 Allington Avenue, Lenton, Nottingham, NG7 1JX",3744.0,864.0,2025-08-26 00:00:00,Furnished,Town House,6.0,2.0,NG7
+"Trinity Avenue, Nottingham, NG7",3900.0,900.0,2025-08-09 00:00:00,Furnished,Semi-Detached,6.0,2.0,NG7
+"Trinity Avenue, Nottingham, NG7",3250.0,750.0,2025-07-26 00:00:00,Furnished,Semi-Detached,5.0,2.0,NG7
+"Teversal Avenue, Nottingham, NG7",3402.0,785.0,2025-07-25 00:00:00,Furnished,Semi-Detached,5.0,2.0,NG7
+"Rolleston Drive, Nottingham, NG7",3402.0,785.0,2025-07-25 00:00:00,Furnished,Detached,5.0,2.0,NG7
+"Balmoral Avenue, West Bridgford, Nottingham, NG2",4030.0,930.0,2025-07-26 00:00:00,Furnished,Semi-Detached,6.0,2.0,NG2
+"Brendon Road, Wollaton, NG8",1600.0,369.0,2024-11-17 00:00:00,Furnished,Detached,4.0,1.0,NG8
+"Ranelagh Grove, Wollaton, NG8",1200.0,277.0,2024-11-22 00:00:00,Unfurnished,Detached,3.0,1.0,NG8
+"Harrington Drive, Nottingham, NG7",2817.0,650.0,2025-08-08 00:00:00,Furnished,Terraced,5.0,1.0,NG7
+"Flat 8, Park View Court, West Bridgford",1213.0,280.0,2025-09-01 00:00:00,Furnished,Apartment,2.0,2.0,
+"Carlton Road, Nottingham",875.0,202.0,2024-12-01 00:00:00,,Flat,1.0,1.0,
+"City Road, Dunkirk",2080.0,480.0,2025-08-11 00:00:00,Furnished,Semi-Detached,4.0,1.0,
+"Leslie Road, Nottingham, NG7",895.0,207.0,2024-11-17 00:00:00,Unfurnished,Terraced,2.0,1.0,NG7
+"Woodborough Road, Nottingham",180.0,42.0,2025-09-01 00:00:00,Furnished,Flat,1.0,1.0,
+"Barrack Lane, Lenton, Nottingham",6335.0,1462.0,2025-08-06 00:00:00,Furnished,House,9.0,3.0,
+"Burns Street, Nottingham, Nottinghamshire, NG7",6283.0,1450.0,2025-07-01 00:00:00,Furnished,End of Terrace,10.0,4.0,NG7
+"Burns Street, Arboretum, Nottingham, NG7",6283.0,1450.0,2025-07-01 00:00:00,Furnished,Town House,10.0,4.0,NG7
+10 Burns Avenue,6283.0,1450.0,2025-08-04 00:00:00,Furnished,Link Detached House,8.0,3.0,
+12 Waterloo Road,6283.0,1450.0,2025-09-01 00:00:00,Furnished,Semi-Detached,10.0,10.0,
+"*180PPPW* INCLUSIVE. Harlaxton Drive, NOTTINGHAM NG7",6256.0,1444.0,,Furnished,Detached,8.0,3.0,NG7
+"Clarendon Street, Nottingham, Nottinghamshire, NG1",6240.0,1440.0,2025-07-01 00:00:00,Furnished,Detached,8.0,4.0,NG1
+3 All Saints Street,6240.0,1440.0,2025-08-04 00:00:00,Furnished,Semi-Detached,9.0,3.0,
+Annesley Grove,6197.0,1430.0,2024-11-17 00:00:00,Furnished,Detached,13.0,4.0,
+"*175PPPW* INCLUSIVE Harlaxton Drive, Lenton, NOTTINGHAM NG7",6083.0,1404.0,,Furnished,Terraced,8.0,3.0,NG7
+"Lenton Boulevard, Nottingham",6067.0,1400.0,2025-07-01 00:00:00,Furnished,House,8.0,2.0,
+"Rolleston Drive, Nottingham",6067.0,1400.0,2025-07-01 00:00:00,Furnished,House Share,10.0,3.0,
+"Harlaxton Drive, Nottingham",5893.0,1360.0,2025-07-01 00:00:00,Furnished,House Share,8.0,2.0,
+"Flat 1, Commercial Point, Wollaton Road, Beeston, Nottingham. NG9 2NG",5893.0,1360.0,2025-09-10 00:00:00,Furnished,Apartment,8.0,8.0,NG9
+"Flat 4, Commercial Point, Wollaton Road, Beeston, Nottingham. NG9 2NG",5893.0,1360.0,2025-09-10 00:00:00,Furnished,Apartment,8.0,8.0,NG9
+"Howard One, 1 Howard Street, Nottingham, Nottinghamshire, NG1",5893.0,1360.0,2025-09-01 00:00:00,Furnished,Flat,8.0,8.0,NG1
+"All Saints Street, Arboretum, Nottingham",5866.0,1354.0,2025-08-12 00:00:00,Furnished,House,9.0,3.0,
+"Langham House, Mapperley Park, NG3",5850.0,1350.0,2025-08-01 00:00:00,,Detached,10.0,4.0,NG3
+"£190pppw BILLS INCLUDED - Teversal Avenue, Nottingham",5778.0,1333.0,2025-07-31 00:00:00,Furnished,Terraced,7.0,3.0,
+"*£166pppw excl bills!* Lenton Boulevard, Nottingham",5771.0,1332.0,2025-09-01 00:00:00,Furnished,Terraced,8.0,3.0,
+"Waterloo Crescent, The Arboretum, Nottingham",5720.0,1320.0,2025-09-01 00:00:00,Furnished,Semi-Detached,8.0,4.0,
+"Waterloo Crescent, The Arboretum, Nottingham,",5720.0,1320.0,2025-09-01 00:00:00,Furnished,Detached,8.0,4.0,
+"Arundel Street, Nottingham, Nottinghamshire, NG7",5720.0,1320.0,2025-07-17 00:00:00,Furnished,End of Terrace,8.0,3.0,NG7
+"Barrack Lane, Lenton, Nottingham",5709.0,1317.0,2025-07-25 00:00:00,Furnished,House,9.0,3.0,
+"Tonnelier Road, Dunkirk, Nottingham, Nottinghamshire, NG7",647.0,149.0,2025-08-01 00:00:00,,House Share,2.0,,NG7
+"Derby Street, Beeston, Nottingham, Nottinghamshire, NG9",659.0,152.0,2025-08-01 00:00:00,,House Share,3.0,,NG9
+"Derby Grove, Lenton, Nottingham, Nottinghamshire, NG7",675.0,156.0,2025-08-22 00:00:00,,House Share,7.0,,NG7
+"Lenton Boulevard, Lenton, Nottingham, Nottinghamshire, NG7",680.0,157.0,2025-08-01 00:00:00,,House Share,4.0,,NG7
+"Forster Street - Room C (D), Lenton, Nottingham, Nottinghamshire, NG7",499.0,115.0,2024-11-17 00:00:00,,House Share,6.0,,NG7
+"Forster Street - Room C, Lenton, Nottingham, Nottinghamshire, NG7",499.0,115.0,2024-11-17 00:00:00,,House Share,5.0,,NG7
+"Forster Street - Room D, Lenton, Nottingham, Nottinghamshire, NG7",499.0,115.0,2024-11-17 00:00:00,,House Share,5.0,,NG7
+"Forster Street - Room B, Lenton, Nottingham, Nottinghamshire, NG7",499.0,115.0,2024-11-17 00:00:00,,House Share,5.0,,NG7
+"Forster Street - Room A, Lenton, Nottingham, Nottinghamshire, NG7",499.0,115.0,2024-11-17 00:00:00,,House Share,5.0,,NG7
+"Forster Street - Room E (D), Lenton, Nottingham, Nottinghamshire, NG7",499.0,115.0,2024-11-17 00:00:00,,House Share,6.0,,NG7
+"Forster Street - Room E, Lenton, Nottingham, Nottinghamshire, NG7",499.0,115.0,2025-11-13 00:00:00,,House Share,5.0,,NG7
+"Forster Street - Room E, Lenton, Nottingham, Nottinghamshire, NG7",499.0,115.0,2024-11-17 00:00:00,,House Share,5.0,,NG7
+"Forster Street - Room C, Lenton, Nottingham, Nottinghamshire, NG7",499.0,115.0,2024-11-17 00:00:00,,House Share,5.0,,NG7
+"Forster Street - Room B, Lenton, Nottingham, Nottinghamshire, NG7",499.0,115.0,2024-11-17 00:00:00,,House Share,5.0,,NG7
+"Forster Street, Lenton, Nottingham, Nottinghamshire, NG7",499.0,115.0,2024-11-17 00:00:00,,House Share,5.0,,NG7
+"Welby Avenue, Lenton, Nottingham, Nottinghamshire, NG7",521.0,120.0,2024-12-02 00:00:00,,House Share,6.0,,NG7
+"Gadd Street, Nottingham, NG7",3354.0,774.0,2025-08-23 00:00:00,Furnished,Terraced,5.0,2.0,NG7
+"Pierrepont Court, 209 Trent Boulevard, West Bridgford, Nottingham, NG2",795.0,183.0,2024-11-18 00:00:00,Unfurnished,Apartment,1.0,1.0,NG2
+"Gadd Street, Nottingham, NG7",3380.0,780.0,2025-08-23 00:00:00,Furnished,Terraced,6.0,2.0,NG7
+"Gadd Street, Nottingham, NG7",3354.0,774.0,2025-08-23 00:00:00,Furnished,Terraced,5.0,2.0,NG7
+"Cloister Street, Nottingham, NG7",3029.0,699.0,2025-08-01 00:00:00,Furnished,Detached,5.0,2.0,NG7
+"Hemscott Close, Nottingham, NG6",850.0,196.0,2024-11-18 00:00:00,Unfurnished,Semi-Detached Bungalow,2.0,1.0,NG6
+4 Sherwin Grove NG7 2EZ,641.0,148.0,2025-06-30 00:00:00,Furnished,House,6.0,3.0,NG7
+18 Midland Avenue NG7 2FD,641.0,148.0,2025-06-30 00:00:00,Furnished,House,6.0,2.0,NG7
+"Woodborough Road, Nottingham",850.0,196.0,2024-11-18 00:00:00,Unfurnished,Flat,2.0,1.0,
+"Woodstock Avenue, Nottingham, NG7",930.0,215.0,2025-01-01 00:00:00,Furnished,Maisonette,1.0,1.0,NG7
+"Carrington, Nottingham, NG5",895.0,207.0,2024-11-29 00:00:00,Furnished,Flat,1.0,1.0,NG5
+"Moorbridge Lane, Stapleford, Nottingham, NG9",495.0,114.0,2024-11-17 00:00:00,Furnished,House Share,1.0,5.0,NG9
+"Ogle Street, Hucknall, NG15",695.0,160.0,2024-11-17 00:00:00,Unfurnished,Flat,1.0,1.0,NG15
+"Moorbridge Lane, Stapleford, Nottingham, NG9",495.0,114.0,2024-11-17 00:00:00,Furnished,House Share,1.0,5.0,NG9
+"Ferriby Terrace, Nottingham, Nottinghamshire, NG2",1250.0,288.0,2024-11-25 00:00:00,Unfurnished,Terraced,2.0,,NG2
+"Derby Road. Beeston, Nottingham, NG9 2TB",1450.0,335.0,2024-11-17 00:00:00,Furnished,Semi-Detached,4.0,3.0,NG9
+"Room 2, Hodgkin Close, Clifton, NG11",577.0,133.0,2024-11-17 00:00:00,Furnished,House,1.0,1.0,NG11
+"Room 1, Hodgkin Close, Clifton, NG11",477.0,110.0,2024-11-17 00:00:00,Furnished,House Share,1.0,1.0,NG11
+"Room 2, Hodgkin Close, Clifton, NG11",577.0,133.0,2024-11-17 00:00:00,Furnished,House Share,1.0,1.0,NG11
+"Room 1, Kinsale Walk, Clifton, NG11",547.0,126.0,2024-11-17 00:00:00,Furnished,House Share,1.0,1.0,NG11
+"6 The Bartons, NG7",1250.0,288.0,2024-11-29 00:00:00,,Apartment,2.0,1.0,NG7
+"Room 2, Failsworth Close, NG11",497.0,115.0,2024-11-17 00:00:00,Furnished,House Share,1.0,1.0,NG11
+"Apartment 8, Crusader House, Thurland Street,Nottingham,NG1",1100.0,254.0,2024-12-23 00:00:00,Furnished,Apartment,2.0,,NG1
+"Room 1, Failsworth Close, NG11",697.0,161.0,2024-11-17 00:00:00,Furnished,House Share,1.0,1.0,NG11
+"*£135pppw excl bills * Harlaxton Drive, Lenton, NG7 1JE",2932.0,677.0,2025-08-01 00:00:00,Furnished,Semi-Detached,5.0,2.0,NG7
+"Briarbank Walk, Nottingham, NG3",895.0,207.0,2024-11-17 00:00:00,Unfurnished,Terraced,3.0,1.0,NG3
+"Wilmot Street, Long Eaton, NG10",700.0,162.0,2024-11-17 00:00:00,Unfurnished,Flat,1.0,1.0,NG10
+"Church Street, Ruddington, Nottingham",750.0,173.0,2024-11-29 00:00:00,Unfurnished,Flat,1.0,1.0,
+"Douglas Road, Lenton, Nottingham",3006.0,694.0,2025-08-15 00:00:00,Furnished,Flat,4.0,2.0,
+"Main Street, Kimberley",550.0,127.0,2024-11-17 00:00:00,Furnished,House Share,1.0,1.0,
+"Warwick Avenue, Beeston",2045.0,472.0,2025-09-01 00:00:00,Furnished,,4.0,1.0,
+"The Wells, Woodborough Road, Nottingham, Nottinghamshire, NG3",900.0,208.0,,Furnished,Apartment,1.0,,NG3
